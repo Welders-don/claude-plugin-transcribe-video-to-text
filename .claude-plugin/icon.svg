@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="26" fill="#1a1a2e"/>
+  <!-- play triangle: full height with padding, centered -->
+  <polygon points="14,18 14,110 60,64" fill="#30d158"/>
+  <!-- text lines: right half, evenly spaced top to bottom -->
+  <rect x="70" y="26" width="44" height="13" rx="6.5" fill="white" opacity="0.9"/>
+  <rect x="70" y="57" width="34" height="13" rx="6.5" fill="white" opacity="0.65"/>
+  <rect x="70" y="89" width="40" height="13" rx="6.5" fill="white" opacity="0.4"/>
+</svg>
