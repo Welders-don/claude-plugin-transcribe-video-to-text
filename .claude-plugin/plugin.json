@@ -9,6 +9,7 @@
   },
   "homepage": "https://www.devexthub.com/transcribe-video-to-text/",
   "repository": "https://github.com/Welders-don/claude-plugin-transcribe-video-to-text",
+  "privacyPolicyUrl": "https://github.com/Welders-don/claude-plugin-transcribe-video-to-text#privacy",
   "license": "MIT",
   "keywords": [
     "transcript",
