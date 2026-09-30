@@ -1,0 +1,22 @@
+{
+  "name": "transcribe-video-to-text",
+  "displayName": "Transcribe Video to Text",
+  "version": "1.0.0",
+  "description": "Clean text transcripts of YouTube, Vimeo and other videos from their captions, right inside Claude. Removes the rolling repeats of auto captions, adds optional [mm:ss] timestamps and flags caption tracks that are only music tags. No video download, no API key, no data sent anywhere except to the video site.",
+  "author": {
+    "name": "DevExtHub",
+    "url": "https://www.devexthub.com"
+  },
+  "homepage": "https://www.devexthub.com/transcribe-video-to-text/",
+  "repository": "https://github.com/Welders-don/claude-plugin-transcribe-video-to-text",
+  "license": "MIT",
+  "keywords": [
+    "transcript",
+    "youtube",
+    "captions",
+    "subtitles",
+    "video to text",
+    "yt-dlp",
+    "summarize video"
+  ]
+}

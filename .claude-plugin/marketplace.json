@@ -1,0 +1,16 @@
+{
+  "name": "devexthub",
+  "description": "Claude plugins by DevExtHub.",
+  "owner": {
+    "name": "DevExtHub",
+    "url": "https://www.devexthub.com"
+  },
+  "plugins": [
+    {
+      "name": "transcribe-video-to-text",
+      "source": "./",
+      "description": "Clean text transcripts of YouTube, Vimeo and other videos from their captions.",
+      "category": "productivity"
+    }
+  ]
+}
